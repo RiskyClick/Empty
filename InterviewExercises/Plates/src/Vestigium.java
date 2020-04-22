@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 public class Vestigium {
     public static void main(String[] args) {
-        System.out.println("test");
         Scanner in = new Scanner(new BufferedReader(new InputStreamReader(System.in)));
         int runs = in.nextInt();
         int reps = 0;
